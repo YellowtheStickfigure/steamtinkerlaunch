@@ -3,6 +3,6 @@
 "Sonic Colors: Ultimate";"2055290";"64";"hedgemmrainbow"
 "Sonic Forces";"637100";"64";"hedgemmforces"
 "Sonic Frontiers";"1237320";"64";"hedgemmrangers"
-"Sonic Generations";"71340";"32";"hedgemmgens"
-"Sonic Lost World";"329440";"32";"hedgemmlw"
+"Sonic Generations";"71340";"64";"hedgemmgens"
+"Sonic Lost World";"329440";"64";"hedgemmlw"
 "Sonic Origins";"1794960";"64";"hedgemmhite"
